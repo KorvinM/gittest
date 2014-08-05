@@ -1,2 +1,3 @@
 configuration will be included here
 This line might not be ignored by git.
+//this line aught to be ignored
