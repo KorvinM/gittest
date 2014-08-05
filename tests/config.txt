@@ -1,1 +1,2 @@
 configuration will be included here
+This line might not be ignored by git.
