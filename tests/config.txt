@@ -1,1 +1,1 @@
-secure information will be included here
+configuration will be included here
